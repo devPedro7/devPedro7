@@ -20,8 +20,6 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif"  />
-
 ###
 
 
@@ -29,7 +27,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,java,js,sql,git,vscode,eclipse " />
+    <img src="https://skillicons.dev/icons?i=html,css,java,js,mysql,git,vscode,eclipse " />
   </a>
 </p>
   
@@ -46,10 +44,3 @@
 </div>
 
 ###
-
-
-<div align="center">
-  
-![Snake animation](https://github.com/devPedro7/devPedro7/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
